@@ -7,3 +7,4 @@ langchain==0.3.25
 langchain-community==0.3.24
 qdrant-client==1.14.2
 requests==2.32.3
+tiktoken==0.9.0
